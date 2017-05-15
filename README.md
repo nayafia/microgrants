@@ -8,6 +8,10 @@ I wish I could fund more projects, but I'm not that rich. So, here are some othe
 http://5x5night.com/ <br>
 _5x5 Night takes place once a month. The community votes on the ideas that will be presented at the event. The selected creators explain a $5,000 step that will move the idea forward, and will meet people who can help._
 
+## Abe's $100 Micro Grant
+https://www.mechaelephant.com//microgrant
+_A monthly $100 grant to create CC0, CC-BY, CC-BY-SA or GPL (compatible) art, code, hardware designs, etc._
+
 ## Awesome Foundation
 http://www.awesomefoundation.org/ <br>
 _The Awesome Foundation is a global community advancing the interest of awesome in the universe, $1000 at a time. Each fully autonomous chapter supports awesome projects through micro-grants, usually given out monthly._
