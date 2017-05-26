@@ -24,6 +24,10 @@ _Indie Fund aims to support the growth of games as a medium by helping indie dev
 https://www.opportunityfund.org/ <br>
 _Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of their economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
 
+## Prototype Fund
+https://prototypefund.de <br>
+_The prototype fund is a collaboration between the Open Knowledge Foundation Germany and the German Federal Ministry of Education and Research. You can get up to 30.000€ for your open source project. This grant is only available for people living in Germany._
+
 # Got another grant program to suggest?
 Open a [pull request](https://github.com/nayafia/grant-programs/pulls) or [issue](https://github.com/nayafia/grant-programs/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
 
