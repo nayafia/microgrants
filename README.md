@@ -12,6 +12,10 @@ _5x5 Night takes place once a month. The community votes on the ideas that will 
 https://www.mechaelephant.com//microgrant <br>
 _A monthly $100 grant to create CC0, CC-BY, CC-BY-SA or GPL (compatible) art, code, hardware designs, etc._
 
+## AI Grant
+https://aigrant.org/ <br>
+_$2,500 for your open source AI project._
+
 ## Awesome Foundation
 http://www.awesomefoundation.org/ <br>
 _The Awesome Foundation is a global community advancing the interest of awesome in the universe, $1000 at a time. Each fully autonomous chapter supports awesome projects through micro-grants, usually given out monthly._
@@ -27,6 +31,10 @@ _Opportunity Fund is California's leading microfinance provider. Opportunity Fun
 ## Prototype Fund
 https://prototypefund.de <br>
 _The prototype fund is a collaboration between the Open Knowledge Foundation Germany and the German Federal Ministry of Education and Research. You can get up to 30.000€ for your open source project. This grant is only available for people living in Germany._
+
+## Uncharted Journalism Fund
+https://unchartedjournalism.org/
+_Up to $5,000 for your experimental journalism project._
 
 # Got another grant program to suggest?
 Open a [pull request](https://github.com/nayafia/grant-programs/pulls) or [issue](https://github.com/nayafia/grant-programs/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
