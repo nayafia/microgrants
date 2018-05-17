@@ -1,6 +1,6 @@
 # A list of microgrant programs for your good ideas.
 
-I gave away [$5,000 on the Internet](http://heliumgrant.org). It was fun. I'll do it again next year.
+I started a microgrant program called [Helium Grants](https://heliumgrant.org), providing small no-strings-attached grants to people on the internet. It's a lot of fun!
 
 I wish I could fund more projects, but I'm not that rich. So, here are some other microgrant programs I learned about that also fund good ideas:
 
