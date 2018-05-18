@@ -41,7 +41,7 @@ https://unchartedjournalism.org/ <br>
 _Up to $5,000 for your experimental journalism project._
 
 # Got another grant program to suggest?
-Open a [pull request](https://github.com/nayafia/grant-programs/pulls) or [issue](https://github.com/nayafia/grant-programs/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
+Open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
 
 If you don't use GitHub, tweet your suggestion @nayafia or [drop me a line](http://nadiaeghbal.com/) and I'll add it to this list.
 
