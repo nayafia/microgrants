@@ -28,6 +28,10 @@ _A collection of community microgrant opportunities (<$1,000, $1-$10,000, and $1
 http://indie-fund.com/ <br>
 _Indie Fund aims to support the growth of games as a medium by helping indie developers get financially independent and stay financially independent._
 
+## Nagarathna Memorial Grant
+https://thejeshgn.com/projects/nagarathna-memorial-grant/ <br>
+_Up to INR 80,000 (~ $1,100) to people. No questions asked._
+
 ## Opportunity Fund
 https://www.opportunityfund.org/ <br>
 _Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of their economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
@@ -44,9 +48,9 @@ _The prototype fund is a collaboration between the Open Knowledge Foundation Ger
 https://unchartedjournalism.org/ <br>
 _Up to $5,000 for your experimental journalism project._
 
-## Nagarathna Memorial Grant
-https://thejeshgn.com/projects/nagarathna-memorial-grant/ <br>
-_Up to INR 80,000 (~ $1,100) to people. No questions asked._
+## Unitary Fund
+http://unitary.fund/ <br>
+_Get $2,000 for your open source quantum computing project._
 
 # Got another grant program to suggest?
 Open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
