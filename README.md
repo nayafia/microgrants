@@ -1,8 +1,6 @@
 # A list of microgrant programs for your good ideas.
 
-I started a microgrant program called [Helium Grants](https://heliumgrant.org), providing small no-strings-attached grants to people on the internet. It's a lot of fun!
-
-I wish I could fund more projects, but I'm not that rich. So, here are some other microgrant programs I learned about that also fund good ideas:
+I started a program called [Helium Grants](https://heliumgrant.org), which provides $1K no-strings-attached grants to encourage people do the things they want to do. In the process, I've come across a bunch of other microgrant programs, which are documented below.
 
 ## 5x5 Night
 http://5x5night.com/ <br>
