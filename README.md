@@ -28,6 +28,10 @@ _A collection of community microgrant opportunities (<$1,000, $1-$10,000, and $1
 http://indie-fund.com/ <br>
 _Indie Fund aims to support the growth of games as a medium by helping indie developers get financially independent and stay financially independent._
 
+## Macktez Summer Stipend
+https://www.macktez.com/stipend/ <br>
+_The Macktez Summer Stipend is a $1,000 development grant to encourage creative people to pursue and complete their personal projects._
+
 ## Nagarathna Memorial Grant
 https://thejeshgn.com/projects/nagarathna-memorial-grant/ <br>
 _Up to INR 80,000 (~ $1,100) to people. No questions asked._
