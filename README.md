@@ -38,6 +38,10 @@ _Up to INR 80,000 (~ $1,100) to people. No questions asked._
 https://www.opportunityfund.org/ <br>
 _Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of their economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
 
+## Pollination Project
+https://thepollinationproject.org/ <br>
+_The Pollination Project awards seed grants daily to social change leaders seeking to benefit the world (both individuals, and community groups that do not have paid staff). Up to $1,000 per initial grant. Successful grantees become eligible for additional grants up to $5,000._
+
 ## Project Cover
 http://projectcover.org/ <br>
 _Cover is a non-profit that gifts small ($500) grants to driven people. Their mission is to extend access to knowledge, networks, and opportunities to those who are working hard to achieve great things._
