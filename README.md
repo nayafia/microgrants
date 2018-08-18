@@ -38,6 +38,10 @@ _Up to INR 80,000 (~ $1,100) to people. No questions asked._
 https://www.opportunityfund.org/ <br>
 _Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of their economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
 
+## Pioneer
+https://pioneer.app/ <br>
+_Pioneer is building a community of creative young people working on interesting projects around the globe. Pioneers receive $5,000 with the possibility for a $100,000 follow-on, a round-trip ticket to San Francisco and access to a private online forum with other Pioneers._
+
 ## Pollination Project
 https://thepollinationproject.org/ <br>
 _The Pollination Project awards seed grants daily to social change leaders seeking to benefit the world (both individuals, and community groups that do not have paid staff). Up to $1,000 per initial grant. Successful grantees become eligible for additional grants up to $5,000._
@@ -48,7 +52,7 @@ _Cover is a non-profit that gifts small ($500) grants to driven people. Their mi
 
 ## Prototype Fund
 https://prototypefund.de <br>
-_The prototype fund is a collaboration between the Open Knowledge Foundation Germany and the German Federal Ministry of Education and Research. You can get up to 30.000€ for your open source project. This grant is only available for people living in Germany._
+_The Prototype Fund is a collaboration between the Open Knowledge Foundation Germany and the German Federal Ministry of Education and Research. You can get up to 30.000€ for your open source project. This grant is only available for people living in Germany._
 
 ## Uncharted Journalism Fund
 https://unchartedjournalism.org/ <br>
