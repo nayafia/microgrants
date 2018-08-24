@@ -30,6 +30,10 @@ _Indie Fund aims to support the growth of games as a medium by helping indie dev
 https://www.macktez.com/stipend/ <br>
 _The Macktez Summer Stipend is a $1,000 development grant to encourage creative people to pursue and complete their personal projects._
 
+## Mitzvoters
+https://www.mitzvoters.org/ <br>
+_Mitzvoters is a group that leverages $50/month collective giving to award $500 grants to "cast a vote about what we want to thrive."_
+
 ## Nagarathna Memorial Grant
 https://thejeshgn.com/projects/nagarathna-memorial-grant/ <br>
 _Up to INR 80,000 (~ $1,100) to people. No questions asked._
