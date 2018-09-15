@@ -40,7 +40,7 @@ _Up to INR 80,000 (~ $1,100) to people. No questions asked._
 
 ## Open Humans Project Grant
 https://www.openhumans.org/grants/ <br>
-_$5,000 USD for projects that help grow the Open Humans ecosystem._
+_$5,000 USD for human data projects (ex. genetic, activity or social media data) that help grow the Open Humans ecosystem._
 
 ## Opportunity Fund
 https://www.opportunityfund.org/ <br>
