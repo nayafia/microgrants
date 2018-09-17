@@ -38,6 +38,10 @@ _Mitzvoters is a group that leverages $50/month collective giving to award $500 
 https://thejeshgn.com/projects/nagarathna-memorial-grant/ <br>
 _Up to INR 80,000 (~ $1,100) to people. No questions asked._
 
+## Open Humans Project Grant
+https://www.openhumans.org/grants/ <br>
+_$5,000 USD for human data projects (ex. genetic, activity or social media data) that help grow the Open Humans ecosystem._
+
 ## Opportunity Fund
 https://www.opportunityfund.org/ <br>
 _Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of their economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
