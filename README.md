@@ -62,6 +62,10 @@ _Cover is a non-profit that gifts small ($500) grants to driven people. Their mi
 https://prototypefund.de <br>
 _The Prototype Fund is a collaboration between the Open Knowledge Foundation Germany and the German Federal Ministry of Education and Research. You can get up to 30.000€ for your open source project. This grant is only available for people living in Germany._
 
+## Puffin Foundation
+http://www.puffinfoundation.org/grants-info.html <br>
+_Up to $2,500 for emerging artists whose works might have difficulty being aired due to their genre and/or social philosophy._
+
 ## Uncharted Journalism Fund
 https://unchartedjournalism.org/ <br>
 _Up to $5,000 for your experimental journalism project._
