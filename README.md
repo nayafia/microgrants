@@ -1,6 +1,6 @@
 # A list of microgrant programs for your good ideas.
 
-I started a program called [Helium Grants](https://heliumgrant.org), which provides $1K no-strings-attached grants to encourage people do the things they want to do. In the process, I've come across a bunch of other microgrant programs, which are documented below.
+I started a program called [Helium Grants](https://heliumgrant.org), which provides $1K no-strings-attached grants to encourage people do the things they want to do. In the process, I've come across a bunch of other microgrant programs, which are documented below. All amounts are listed in USD unless otherwise specified.
 
 ## 5x5 Night
 http://5x5night.com/ <br>
@@ -38,9 +38,13 @@ _Mitzvoters is a group that leverages $50/month collective giving to award $500 
 https://thejeshgn.com/projects/nagarathna-memorial-grant/ <br>
 _Up to INR 80,000 (~ $1,100) to people. No questions asked._
 
+## Native Cultures Fund
+https://www.hafoundation.org/Grantseekers/Native-Cultures-Fund <br>
+_$1,000-$10,000 for projects that support California native culture, arts, knowledge systems and lifeways.
+
 ## Open Humans Project Grant
 https://www.openhumans.org/grants/ <br>
-_$5,000 USD for human data projects (ex. genetic, activity or social media data) that help grow the Open Humans ecosystem._
+_$5,000 for human data projects (ex. genetic, activity or social media data) that help grow the Open Humans ecosystem._
 
 ## Opportunity Fund
 https://www.opportunityfund.org/ <br>
