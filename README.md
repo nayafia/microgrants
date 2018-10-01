@@ -40,7 +40,7 @@ _Up to INR 80,000 (~ $1,100) to people. No questions asked._
 
 ## Native Cultures Fund
 https://www.hafoundation.org/Grantseekers/Native-Cultures-Fund <br>
-_$1,000-$10,000 for projects that nourish the California Indian cultural renaissance.
+_$1,000-$10,000 for projects that support California native culture, arts, knowledge systems and lifeways.
 
 ## Open Humans Project Grant
 https://www.openhumans.org/grants/ <br>
