@@ -1,6 +1,6 @@
 # A list of microgrant programs for your good ideas.
 
-I started a program called [Helium Grants](https://heliumgrant.org), which provides $1K no-strings-attached grants to encourage people do the things they want to do. In the process, I've come across a bunch of other microgrant programs, which are documented below. All amounts are listed in USD unless otherwise specified.
+I started a program called [Helium Grants](https://heliumgrant.org), which provides $1K no-strings-attached grants to encourage people to do the things they want to do. In the process, I've come across a bunch of other microgrant programs, which are documented below. All amounts are listed in USD unless otherwise specified.
 
 ## 5x5 Night
 http://5x5night.com/ <br>
@@ -40,7 +40,7 @@ _Up to INR 80,000 (~ $1,100) to people. No questions asked._
 
 ## Native Cultures Fund
 https://www.hafoundation.org/Grantseekers/Native-Cultures-Fund <br>
-_$1,000-$10,000 for projects that support California native culture, arts, knowledge systems and lifeways._
+_$1,000-$10,000 for projects that support California native culture, arts, knowledge systems, and lifeways._
 
 ## Open Humans Project Grant
 https://www.openhumans.org/grants/ <br>
@@ -48,7 +48,7 @@ _$5,000 for human data projects (ex. genetic, activity or social media data) tha
 
 ## Opportunity Fund
 https://www.opportunityfund.org/ <br>
-_Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of their economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
+_Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
 
 ## Pioneer
 https://pioneer.app/ <br>
@@ -60,7 +60,7 @@ _The Pollination Project awards seed grants daily to social change leaders seeki
 
 ## Project Cover
 http://projectcover.org/ <br>
-_Cover is a non-profit that gifts small ($500) grants to driven people. Their mission is to extend access to knowledge, networks, and opportunities to those who are working hard to achieve great things._
+_Cover is a non-profit that gifts small ($500) grants to driven people. Their mission is to extend access to knowledge, networks, and opportunities for those who are working hard to achieve great things._
 
 ## Prototype Fund
 https://prototypefund.de <br>
