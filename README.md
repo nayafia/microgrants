@@ -81,7 +81,7 @@ _Get $2,000 for your open source quantum computing project._
 # Got another grant program to suggest?
 Open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
 
-If you don't use GitHub, tweet your suggestion @nayafia or [drop me a line](http://nadiaeghbal.com/) and I'll add it to this list.
+If you don't use GitHub, tweet your suggestion [@nayafia](https://twitter.com/intent/tweet?text=@nayafia%20) or [drop me a line](http://nadiaeghbal.com/) and I'll add it to this list.
 
 # License
 This list, humble as it may be, is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). If you do use it, I'd love to hear about it! (Find me here: [@nayafia](https://twitter.com/nayafia)) But you are in no way required to do so.
