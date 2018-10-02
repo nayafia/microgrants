@@ -48,7 +48,7 @@ _$5,000 for human data projects (ex. genetic, activity or social media data) tha
 
 ## Opportunity Fund
 https://www.opportunityfund.org/ <br>
-_Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of his or her economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
+_Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
 
 ## Pioneer
 https://pioneer.app/ <br>
