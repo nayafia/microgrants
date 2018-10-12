@@ -18,6 +18,10 @@ _$2,500 for your open source AI project._
 http://www.awesomefoundation.org/ <br>
 _The Awesome Foundation is a global community advancing the interest of awesome in the universe, $1000 at a time. Each fully autonomous chapter supports awesome projects through micro-grants, usually given out monthly._
 
+## Awesome Journalism
+https://awesomejournalism.org/ <br>
+_Awesome Journalism awards $1,000 grants every month for journalism story projects._
+
 ## Cincinnati community grants
 http://www.youshouldapply.org/ <br>
 _A collection of community microgrant opportunities (<$1,000, $1-$10,000, and $10,000+) for the Cincinnati, Ohio, USA region._
