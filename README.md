@@ -74,6 +74,10 @@ _The Prototype Fund is a collaboration between the Open Knowledge Foundation Ger
 http://www.puffinfoundation.org/grants-info.html <br>
 _Up to $2,500 for emerging artists whose works might have difficulty being aired due to their genre and/or social philosophy._
 
+## Science Debate
+https://sciencedebate.org/minigrants.html
+_$1-3K "mini grants" for community organizers and science policy advocates across the United States, particularly those who organize efforts and coordinate the mobilization of people to promote discussion of science policy by electoral candidates. Science Debate is a nonpartisan organization._
+
 ## Uncharted Journalism Fund
 https://unchartedjournalism.org/ <br>
 _Up to $5,000 for your experimental journalism project._
