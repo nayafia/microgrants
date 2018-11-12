@@ -76,7 +76,7 @@ _Up to $2,500 for emerging artists whose works might have difficulty being aired
 
 ## Science Debate
 https://sciencedebate.org/minigrants.html <br>
-_$1-3K "mini grants" for community organizers and science policy advocates across the United States, particularly those who organize efforts and coordinate the mobilization of people to promote discussion of science policy by electoral candidates. Science Debate is a nonpartisan organization._
+_$1,000-$3,000 "mini grants" for community organizers and science policy advocates across the United States, particularly those who organize efforts and coordinate the mobilization of people to promote discussion of science policy by electoral candidates. Science Debate is a nonpartisan organization._
 
 ## Uncharted Journalism Fund
 https://unchartedjournalism.org/ <br>
