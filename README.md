@@ -56,7 +56,7 @@ _Opportunity Fund is California's leading microfinance provider. Opportunity Fun
 
 ## Pioneer
 https://pioneer.app/ <br>
-_Pioneer is building a community of creative young people working on interesting projects around the globe. Pioneers receive $5,000 with the possibility for a $100,000 follow-on, a round-trip ticket to San Francisco and access to a private online forum with other Pioneers._
+_Pioneer is building a community of creative young people working on interesting projects around the globe. Pioneers receive $1,000 with the possibility for a $100,000 follow-on, a round-trip ticket to San Francisco, $6,000 in Stellar Lumens, $100,000 in Google Cloud credits, and access to a private online forum with other Pioneers._
 
 ## Pollination Project
 https://thepollinationproject.org/ <br>
