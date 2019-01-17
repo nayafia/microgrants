@@ -78,6 +78,10 @@ _Up to $2,500 for emerging artists whose works might have difficulty being aired
 https://sciencedebate.org/minigrants.html <br>
 _$1,000-$3,000 "mini grants" for community organizers and science policy advocates across the United States, particularly those who organize efforts and coordinate the mobilization of people to promote discussion of science policy by electoral candidates. Science Debate is a nonpartisan organization._
 
+## Thiel Fellowship
+https://thielfellowship.org/ <br>
+_$100,000 over two years for young people who want to build new things. Thiel Fellows skip or stop out of college to receive a $100,000 grant and support from the Thiel Foundation’s network of founders, investors, and scientists._
+
 ## Uncharted Journalism Fund
 https://unchartedjournalism.org/ <br>
 _Up to $5,000 for your experimental journalism project._
