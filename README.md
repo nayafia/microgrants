@@ -68,7 +68,7 @@ _Cover is a non-profit that gifts small ($500) grants to driven people. Their mi
 
 ## Prototype Fund
 https://prototypefund.de <br>
-_The Prototype Fund is a collaboration between the Open Knowledge Foundation Germany and the German Federal Ministry of Education and Research. You can get up to 47.500€ for your open source project. This grant is only available for people living in Germany, but available with any passport.
+_The Prototype Fund is a collaboration between the Open Knowledge Foundation Germany and the German Federal Ministry of Education and Research. You can get up to 47.500€ for your open source project. This grant is only available for people living in Germany, but available with any passport._
 
 ## Puffin Foundation
 http://www.puffinfoundation.org/grants-info.html <br>
