@@ -64,7 +64,7 @@ _The Pollination Project awards seed grants daily to social change leaders seeki
 
 ## Project Cover
 http://projectcover.org/ <br>
-_Cover is a non-profit that gifts small ($500) grants to driven people. Their mission is to extend access to knowledge, networks, and opportunities for those who are working hard to achieve great things._
+_Cover is a non-profit that gifts small ($500) grants to driven people. Their mission is to extend access to knowledge, networks, and opportunities for those who are working hard to achieve great things. Restricted to people from US able to complete a W9 form._
 
 ## Prototype Fund
 https://prototypefund.de <br>
