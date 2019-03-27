@@ -26,6 +26,10 @@ _Awesome Journalism awards $1,000 grants every month for journalism story projec
 http://www.youshouldapply.org/ <br>
 _A collection of community microgrant opportunities (<$1,000, $1-$10,000, and $10,000+) for the Cincinnati, Ohio, USA region._
 
+## Decapital
+http://decapital.org/ <br>
+_Up to $1000 for creative, activist or DIY projects. Decapital seeks individuals or small groups who need funding for a project with a vision of society that is radically different than the world we currently live in._
+
 ## Indie Fund
 http://indie-fund.com/ <br>
 _Indie Fund aims to support the growth of games as a medium by helping indie developers get financially independent and stay financially independent._
