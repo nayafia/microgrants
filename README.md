@@ -28,6 +28,10 @@ _Awesome Journalism awards $1,000 grants every month for journalism story projec
 http://www.youshouldapply.org/ <br>
 _A collection of community microgrant opportunities (<$1,000, $1-$10,000, and $10,000+) for the Cincinnati, Ohio, USA region._
 
+## Clarity Health Fund
+https://www.clarityhealthfund.org/ <br>
+_$1,000 USD microgrants for progress in psychedelics and drug policy. Clarity Health Fund’s primary mission is to bring psychedelics into the wellness system. Larger grants are also available._
+
 ## Decapital
 http://decapital.org/ <br>
 _Up to $1000 for creative, activist or DIY projects. Decapital seeks individuals or small groups who need funding for a project with a vision of society that is radically different than the world we currently live in._
