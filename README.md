@@ -2,7 +2,7 @@
 
 I started a program called [Helium Grants](https://heliumgrant.org), which provides $1K no-strings-attached grants to encourage people to do the things they want to do. In the process, I've come across a bunch of other microgrant programs, which are documented below. All amounts are listed in USD unless otherwise specified.
 
-If you're interested in starting your own microgrant program, I've also created a [template for application forms](application.md), which you're welcome to use.
+If you're interested in starting your own microgrant program, I've also created [a few templates](/templates), which you're welcome to use.
 
 ## 5x5 Night
 http://5x5night.com/ <br>
