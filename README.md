@@ -9,7 +9,7 @@ http://5x5night.com/ <br>
 _5x5 Night takes place once a month. The community votes on the ideas that will be presented at the event. The selected creators explain a $5,000 step that will move the idea forward, and will meet people who can help._
 
 ## Abe's $100 Micro Grant
-https://www.mechaelephant.com//microgrant <br>
+https://www.mechaelephant.com/microgrant <br>
 _A monthly $100 grant to create CC0, CC-BY, CC-BY-SA or GPL (compatible) art, code, hardware designs, etc._
 
 ## AI Grant
