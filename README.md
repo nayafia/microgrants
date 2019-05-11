@@ -1,6 +1,6 @@
 # A list of microgrant programs for your good ideas.
 
-I started a program called [Helium Grants](https://heliumgrant.org), which provides $1K no-strings-attached grants to encourage people to do the things they want to do. In the process, I've come across a bunch of other microgrant programs, which are documented below. All amounts are listed in USD unless otherwise specified.
+I started a program called [Helium Grants](https://heliumgrant.org), which provided $1K no-strings-attached grants to encourage people to do the things they want to do (now on hiatus). In the process, I came across a bunch of other microgrant programs, which are documented below. All amounts are listed in USD unless otherwise specified.
 
 If you're interested in starting your own microgrant program, I've also created [a few templates](/templates), which you're welcome to use.
 
