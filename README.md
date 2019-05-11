@@ -36,6 +36,10 @@ _$1,000 USD microgrants for progress in psychedelics and drug policy. Clarity He
 http://decapital.org/ <br>
 _Up to $1000 for creative, activist or DIY projects. Decapital seeks individuals or small groups who need funding for a project with a vision of society that is radically different than the world we currently live in._
 
+## Emergent Ventures
+https://www.mercatus.org/emergentventures <br>
+_Emergent Ventures, a new fellowship and grant program from the Mercatus Center, seeks to support entrepreneurs and brilliant minds with highly scalable, “zero to one” ideas for meaningfully improving society._
+
 ## Indie Fund
 http://indie-fund.com/ <br>
 _Indie Fund aims to support the growth of games as a medium by helping indie developers get financially independent and stay financially independent._
