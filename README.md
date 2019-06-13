@@ -40,6 +40,14 @@ _Up to $1000 for creative, activist or DIY projects. Decapital seeks individuals
 https://www.mercatus.org/emergentventures <br>
 _Emergent Ventures, a new fellowship and grant program from the Mercatus Center, seeks to support entrepreneurs and brilliant minds with highly scalable, “zero to one” ideas for meaningfully improving society._
 
+## Farnsworth Fund
+https://farnsworthfund.com/ <br>
+_The Farnsworth Fund provides $1,000 grants to create a entrepreneurial culture in northeast Indiana that welcomes new ideas and encourages them to dream bigger._
+
+## Gumroad Creators Fund
+https://blog.gumroad.com/post/183876075758/introducing-the-first-batch-of-our-creators-fund <br>
+_Over the course of the year, Gumroad will allocate over $50,000 (10% of their profits) to a variety of creators and creative projects. Each "grant" will be between $500 and $5,000._
+
 ## Indie Fund
 http://indie-fund.com/ <br>
 _Indie Fund aims to support the growth of games as a medium by helping indie developers get financially independent and stay financially independent._
