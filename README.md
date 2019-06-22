@@ -12,10 +12,6 @@ _5x5 Night takes place once a month. The community votes on the ideas that will 
 https://www.mechaelephant.com/microgrant <br>
 _A monthly $100 grant to create CC0, CC-BY, CC-BY-SA or GPL (compatible) art, code, hardware designs, etc._
 
-## AI Grant
-https://aigrant.org/ <br>
-_$2,500 for your open source AI project._
-
 ## Awesome Foundation
 http://www.awesomefoundation.org/ <br>
 _The Awesome Foundation is a global community advancing the interest of awesome in the universe, $1000 at a time. Each fully autonomous chapter supports awesome projects through micro-grants, usually given out monthly._
