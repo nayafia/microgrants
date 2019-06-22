@@ -112,6 +112,11 @@ _Up to $5,000 for your experimental journalism project._
 http://unitary.fund/ <br>
 _Get $2,000 for your open source quantum computing project._
 
+# Inactive microgrant programs
+To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
+
+* [AI Grant](https://aigrant.org/)
+
 # Got another grant program to suggest?
 Open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
 
