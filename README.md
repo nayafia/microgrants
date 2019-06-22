@@ -12,10 +12,6 @@ _5x5 Night takes place once a month. The community votes on the ideas that will 
 https://www.mechaelephant.com/microgrant <br>
 _A monthly $100 grant to create CC0, CC-BY, CC-BY-SA or GPL (compatible) art, code, hardware designs, etc._
 
-## AI Grant
-https://aigrant.org/ <br>
-_$2,500 for your open source AI project._
-
 ## Awesome Foundation
 http://www.awesomefoundation.org/ <br>
 _The Awesome Foundation is a global community advancing the interest of awesome in the universe, $1000 at a time. Each fully autonomous chapter supports awesome projects through micro-grants, usually given out monthly._
@@ -115,6 +111,11 @@ _Up to $5,000 for your experimental journalism project._
 ## Unitary Fund
 http://unitary.fund/ <br>
 _Get $2,000 for your open source quantum computing project._
+
+# Inactive microgrant programs
+To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
+
+* [AI Grant](https://aigrant.org/)
 
 # Got another grant program to suggest?
 Open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
