@@ -104,10 +104,6 @@ _$250-$1000 grants to support under-funded, small organizations and projects pro
 https://thielfellowship.org/ <br>
 _$100,000 over two years for young people who want to build new things. Thiel Fellows skip or stop out of college to receive a $100,000 grant and support from the Thiel Foundation’s network of founders, investors, and scientists._
 
-## Uncharted Journalism Fund
-https://unchartedjournalism.org/ <br>
-_Up to $5,000 for your experimental journalism project._
-
 ## Unitary Fund
 http://unitary.fund/ <br>
 _Get $2,000 for your open source quantum computing project._
@@ -116,6 +112,7 @@ _Get $2,000 for your open source quantum computing project._
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
 
 * [AI Grant](https://aigrant.org/)
+* [Uncharted Journalism Fund](https://unchartedjournalism.org/) (see [retrospective](https://unchartedjournalism.org/uncharted-journalism-fund-experiment-complete-lessons-learned-5f53473a92c3))
 
 # Got another grant program to suggest?
 Open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
