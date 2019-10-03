@@ -108,6 +108,10 @@ _$100,000 over two years for young people who want to build new things. Thiel Fe
 http://unitary.fund/ <br>
 _Get $2,000 for your open source quantum computing project._
 
+## Echoing Green Fellowship
+https://echoinggreen.org/fellowship/ <br>
+_A two-year, full-time Fellowship with stipend paid in four equal installments over two years ($80,000 for individuals; $90,000 for partnerships), in addition to a flexible benefit stipend. Echoing green invests in social sector not-for-profit, for-profit or hybrid startups._  
+
 # Inactive microgrant programs
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
 
