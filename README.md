@@ -32,6 +32,10 @@ _$1,000 USD microgrants for progress in psychedelics and drug policy. Clarity He
 http://decapital.org/ <br>
 _Up to $1000 for creative, activist or DIY projects. Decapital seeks individuals or small groups who need funding for a project with a vision of society that is radically different than the world we currently live in._
 
+## Echoing Green Fellowship
+https://echoinggreen.org/fellowship/ <br>
+_A two-year, full-time fellowship for social sector leaders who challenge the status quo. $80,000 for individuals, $90,000 for partnerships, in addition to a flexible benefit stipend._ 
+
 ## Emergent Ventures
 https://www.mercatus.org/emergentventures <br>
 _Emergent Ventures, a new fellowship and grant program from the Mercatus Center, seeks to support entrepreneurs and brilliant minds with highly scalable, “zero to one” ideas for meaningfully improving society._
@@ -107,10 +111,6 @@ _$100,000 over two years for young people who want to build new things. Thiel Fe
 ## Unitary Fund
 http://unitary.fund/ <br>
 _Get $2,000 for your open source quantum computing project._
-
-## Echoing Green Fellowship
-https://echoinggreen.org/fellowship/ <br>
-_A two-year, full-time Fellowship with stipend paid in four equal installments over two years ($80,000 for individuals; $90,000 for partnerships), in addition to a flexible benefit stipend. Echoing green invests in social sector not-for-profit, for-profit or hybrid startups._  
 
 # Inactive microgrant programs
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
