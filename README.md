@@ -20,10 +20,6 @@ _The Awesome Foundation is a global community advancing the interest of awesome 
 https://awesomejournalism.org/ <br>
 _Awesome Journalism awards $1,000 grants every month for journalism story projects._
 
-## Cincinnati community grants
-http://www.youshouldapply.org/ <br>
-_A collection of community microgrant opportunities (<$1,000, $1-$10,000, and $10,000+) for the Cincinnati, Ohio, USA region._
-
 ## Clarity Health Fund
 https://www.clarityhealthfund.org/ <br>
 _$1,000 USD microgrants for progress in psychedelics and drug policy. Clarity Health Fund’s primary mission is to bring psychedelics into the wellness system. Larger grants are also available._
