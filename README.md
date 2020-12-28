@@ -76,6 +76,10 @@ _Pioneer is building a community of creative young people working on interesting
 https://thepollinationproject.org/ <br>
 _The Pollination Project awards seed grants daily to social change leaders seeking to benefit the world (both individuals, and community groups that do not have paid staff). Up to $1,000 per initial grant. Successful grantees become eligible for additional grants up to $5,000._
 
+## Primer Grants
+https://www.withprimer.com/blog/introducing-primer-grants
+_Primer Grants are awards of up to $500 per student to fund ambitious projects from kids around the world._
+
 ## Project Cover
 http://projectcover.org/ <br>
 _Cover is a non-profit that gifts small ($500) grants to driven people. Their mission is to extend access to knowledge, networks, and opportunities for those who are working hard to achieve great things. Restricted to United States citizens and resident aliens._
