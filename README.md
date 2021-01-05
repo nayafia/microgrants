@@ -52,6 +52,10 @@ _The Macktez Summer Stipend is a $1,000 development grant to encourage creative 
 https://www.mitzvoters.org/ <br>
 _Mitzvoters is a group that leverages $50/month collective giving to award $500 grants to "cast a vote about what we want to thrive."_
 
+## Mozilla Builders Incubator
+https://mozilla.org/builders
+_12 weeks of mentorship by Mozilla and $16K in funding for pre-startup teams "fixing the Internet"._
+
 ## Nagarathna Memorial Grant
 https://thejeshgn.com/projects/nagarathna-memorial-grant/ <br>
 _Up to INR 80,000 (~ $1,100) to people. No questions asked._
