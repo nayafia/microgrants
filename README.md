@@ -60,6 +60,10 @@ _Up to INR 80,000 (~ $1,100) to people. No questions asked._
 https://www.hafoundation.org/Grantseekers/Native-Cultures-Fund <br>
 _$1,000-$10,000 for projects that support California native culture, arts, knowledge systems, and lifeways._
 
+## NLNet Foundation
+https://nlnet.nl/propose/
+_$5K to $50K for open source projects by independent researchers and developers. NLnet also funds standards efforts. Releasing software, hardware, and content under open licenses, and the application of open standards where possible are transversal requirements for projects to be eligible for grants._
+
 ## Open Humans Project Grant
 https://www.openhumans.org/grants/ <br>
 _$5,000 for human data projects (ex. genetic, activity or social media data) that help grow the Open Humans ecosystem._
