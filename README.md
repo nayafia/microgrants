@@ -16,10 +16,6 @@ _The Awesome Foundation is a global community advancing the interest of awesome 
 https://awesomejournalism.org/ <br>
 _Awesome Journalism awards $1,000 grants every month for journalism story projects._
 
-## Clarity Health Fund
-https://www.clarityhealthfund.org/ <br>
-_$1,000 USD microgrants for progress in psychedelics and drug policy. Clarity Health Fund’s primary mission is to bring psychedelics into the wellness system. Larger grants are also available._
-
 ## Climate Grants
 https://www.climategrants.earth/ <br />
 _Climate Grants gives $1000 each month to people working on solving climate change, no strings attached._
@@ -114,6 +110,7 @@ To my knowledge, these grant programs are no longer active, but you might find t
 * [AI Grant](https://aigrant.org/)
 * [Uncharted Journalism Fund](https://unchartedjournalism.org/) (see [retrospective](https://unchartedjournalism.org/uncharted-journalism-fund-experiment-complete-lessons-learned-5f53473a92c3))
 * [Abe's $100 Micro Grant](https://www.mechaelephant.com/microgrant)
+* [Clarity Health Fund](https://www.clarityhealthfund.org)
 
 # Got another grant program to suggest?
 Open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
