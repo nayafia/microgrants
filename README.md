@@ -106,7 +106,7 @@ _$100,000 over two years for young people who want to build new things. Thiel Fe
 
 ## Unitary Fund
 http://unitary.fund/ <br>
-_Get $2,000 for your open source quantum computing project._
+_Get $4,000 for your open source quantum computing project._
 
 # Inactive microgrant programs
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
