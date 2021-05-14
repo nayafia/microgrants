@@ -100,6 +100,10 @@ _$1,000-$3,000 "mini grants" for community organizers and science policy advocat
 https://www.thesisters.org/grants <br>
 _$250-$1000 grants to support under-funded, small organizations and projects providing direct services to under-served communities. The projects they support tend to be progressive grassroots projects that promote wellness, joy, tolerance, and diversity within our communities, and that support the LGBTQ+ community. Bay Area projects preferred._
 
+## Spell Open Research Grant
+https://spell.ml/blog/spell-open-research-grant-YIMtSxEAACQAKm81
+Up to $40,000 in cloud credits for indie/academic researchers pursuing large scale ML projects or art projects that use ML.
+
 ## Thiel Fellowship
 https://thielfellowship.org/ <br>
 _$100,000 over two years for young people who want to build new things. Thiel Fellows skip or stop out of college to receive a $100,000 grant and support from the Thiel Foundation’s network of founders, investors, and scientists._
