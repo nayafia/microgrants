@@ -92,6 +92,10 @@ _Up to $2,500 for emerging artists whose works might have difficulty being aired
 https://sciencedebate.org/minigrants.html <br>
 _$1,000-$3,000 "mini grants" for community organizers and science policy advocates across the United States, particularly those who organize efforts and coordinate the mobilization of people to promote discussion of science policy by electoral candidates. Science Debate is a nonpartisan organization._
 
+## SciFounders
+https://scifounders.com/ <br>
+_The SciFounder Fellowship is "designed to encourage early-career scientists with great ideas to get started on their own companies. You will receive an initial investment of $400,000 and mentorship in the form of regular office hours for one year."_
+
 ## Sisters of Perpetual Indulgence 
 https://www.thesisters.org/grants <br>
 _$250-$1000 grants to support under-funded, small organizations and projects providing direct services to under-served communities. The projects they support tend to be progressive grassroots projects that promote wellness, joy, tolerance, and diversity within our communities, and that support the LGBTQ+ community. Bay Area projects preferred._
