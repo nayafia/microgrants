@@ -68,10 +68,6 @@ _$5K to $50K for open source projects by independent researchers and developers.
 https://www.openhumans.org/grants/ <br>
 _$5,000 for human data projects (ex. genetic, activity or social media data) that help grow the Open Humans ecosystem._
 
-## Opportunity Fund
-https://www.opportunityfund.org/ <br>
-_Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
-
 ## Pollination Project
 https://thepollinationproject.org/ <br>
 _The Pollination Project awards seed grants daily to social change leaders seeking to benefit the world (both individuals, and community groups that do not have paid staff). Up to $1,000 per initial grant. Successful grantees become eligible for additional grants up to $5,000._
