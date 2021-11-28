@@ -8,10 +8,6 @@ If you're interested in starting your own microgrant program, I've also created 
 http://5x5night.com/ <br>
 _5x5 Night takes place once a month. The community votes on the ideas that will be presented at the event. The selected creators explain a $5,000 step that will move the idea forward, and will meet people who can help._
 
-## ACX Grants
-https://astralcodexten.substack.com/p/apply-for-an-acx-grant <br>
-_Scott Alexander is awarding grants to "good research and good projects with a minimum of paperwork." Total grant pool is $250,000 plus any additional funds pledged by other donors._
-
 ## Awesome Foundation
 http://www.awesomefoundation.org/ <br>
 _The Awesome Foundation is a global community advancing the interest of awesome in the universe, $1000 at a time. Each fully autonomous chapter supports awesome projects through micro-grants, usually given out monthly._
@@ -115,9 +111,10 @@ _Get $4,000 for your open source quantum computing project._
 # Inactive microgrant programs
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
 
+* [Abe's $100 Micro Grant](https://www.mechaelephant.com/microgrant)
+* [ACX Grants](https://astralcodexten.substack.com/p/apply-for-an-acx-grant) - Scott Alexander awarded $250K+ in grants for "good research and good projects with a minimum of paperwork."
 * [AI Grant](https://aigrant.org/)
 * [Uncharted Journalism Fund](https://unchartedjournalism.org/) (see [retrospective](https://unchartedjournalism.org/uncharted-journalism-fund-experiment-complete-lessons-learned-5f53473a92c3))
-* [Abe's $100 Micro Grant](https://www.mechaelephant.com/microgrant)
 
 # Got another grant program to suggest?
 Open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
