@@ -112,7 +112,7 @@ _Get $4,000 for your open source quantum computing project._
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
 
 * [Abe's $100 Micro Grant](https://www.mechaelephant.com/microgrant)
-* [ACX Grants](https://astralcodexten.substack.com/p/apply-for-an-acx-grant) - Scott Alexander announced $250K+ in grants for "good research and good projects with a minimum of paperwork.", submissions are now closed
+* [ACX Grants](https://astralcodexten.substack.com/p/apply-for-an-acx-grant) - Scott Alexander [awarded $1.5M+ in grants](https://astralcodexten.substack.com/p/acx-grants-results) for "good research and good projects with a minimum of paperwork."
 * [AI Grant](https://aigrant.org/)
 * [Uncharted Journalism Fund](https://unchartedjournalism.org/) (see [retrospective](https://unchartedjournalism.org/uncharted-journalism-fund-experiment-complete-lessons-learned-5f53473a92c3))
 
