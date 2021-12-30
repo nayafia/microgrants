@@ -18,7 +18,7 @@ _Awesome Journalism awards $1,000 grants every month for journalism story projec
 
 ## cache money grants
 https://cachemoney.xyz/grants/ <br>
-_$5K grants, paid in crypto (BTC, ETH, SOL), for "hackers and/or artists who want to tackle interesting new ideas in the crypto space."
+_$5K grants, paid in crypto (BTC, ETH, SOL), for "hackers and/or artists who want to tackle interesting new ideas in the crypto space."_
 
 ## Clarity Health Fund
 https://www.clarityhealthfund.org/ <br>
