@@ -16,6 +16,10 @@ _The Awesome Foundation is a global community advancing the interest of awesome 
 https://awesomejournalism.org/ <br>
 _Awesome Journalism awards $1,000 grants every month for journalism story projects._
 
+## cache money grants
+https://cachemoney.xyz/grants/ <br>
+_$5K grants, paid in crypto (BTC, ETH, SOL), for "hackers and/or artists who want to tackle interesting new ideas in the crypto space."
+
 ## Clarity Health Fund
 https://www.clarityhealthfund.org/ <br>
 _$1,000 USD microgrants for progress in psychedelics and drug policy. Clarity Health Fund’s primary mission is to bring psychedelics into the wellness system. Larger grants are also available._
