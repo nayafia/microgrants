@@ -11,7 +11,7 @@ _5x5 Night takes place once a month. The community votes on the ideas that will 
 
 ## Atila
 https://atila.ca/ <br>
-_Atila makes it easy for anyone to create their own microgrants program using fiat or crypto._
+_Atila makes it easy for anyone to create their own grants program using fiat or crypto._
 
 ## Awesome Foundation
 http://www.awesomefoundation.org/ <br>
