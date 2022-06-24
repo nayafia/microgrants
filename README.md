@@ -126,6 +126,7 @@ To my knowledge, these grant programs are no longer active, but you might find t
 * [Abe's $100 Micro Grant](https://www.mechaelephant.com/microgrant)
 * [ACX Grants](https://astralcodexten.substack.com/p/apply-for-an-acx-grant) - Scott Alexander [awarded $1.5M+ in grants](https://astralcodexten.substack.com/p/acx-grants-results) for "good research and good projects with a minimum of paperwork."
 * [AI Grant](https://aigrant.org/)
+* [Silent Partners](https://www.silent-partners.net/) - Provided approximately two $1,000 grants per month to support Brooklyn-based Black artists and community organizers who needed it
 * [Uncharted Journalism Fund](https://unchartedjournalism.org/) (see [retrospective](https://unchartedjournalism.org/uncharted-journalism-fund-experiment-complete-lessons-learned-5f53473a92c3))
 
 # Got another grant program to suggest?
