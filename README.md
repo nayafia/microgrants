@@ -12,10 +12,6 @@ _5x5 Night takes place once a month. The community votes on the ideas that will 
 http://www.awesomefoundation.org/ <br>
 _The Awesome Foundation is a global community advancing the interest of awesome in the universe, $1000 at a time. Each fully autonomous chapter supports awesome projects through micro-grants, usually given out monthly._
 
-## Awesome Journalism
-https://awesomejournalism.org/ <br>
-_Awesome Journalism awards $1,000 grants every month for journalism story projects._
-
 ## Bed-Stuy Create & Connect Fund
 https://laundromatproject.org/create-connect-fund/ <br>
 _A community micro-grant fund launched by The Laundromat Project providing $1,000 grants to seed and support the creative ideas and civic actions of artists, cultural practitioners, community builders, organizers, and makers in Bedford-Stuyvesant, Brooklyn (New York City)._
@@ -130,6 +126,7 @@ To my knowledge, these grant programs are no longer active, but you might find t
 * [Abe's $100 Micro Grant](https://www.mechaelephant.com/microgrant)
 * [ACX Grants](https://astralcodexten.substack.com/p/apply-for-an-acx-grant) - Scott Alexander [awarded $1.5M+ in grants](https://astralcodexten.substack.com/p/acx-grants-results) for "good research and good projects with a minimum of paperwork."
 * [AI Grant](https://aigrant.org/)
+* [Awesome Journalism](https://awesomejournalism.org/) - Awesome Journalism awarded $1,000 grants every month for journalism story projects.
 * [Uncharted Journalism Fund](https://unchartedjournalism.org/) (see [retrospective](https://unchartedjournalism.org/uncharted-journalism-fund-experiment-complete-lessons-learned-5f53473a92c3))
 
 # Got another grant program to suggest?
