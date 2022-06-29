@@ -12,6 +12,10 @@ _5x5 Night takes place once a month. The community votes on the ideas that will 
 http://www.awesomefoundation.org/ <br>
 _The Awesome Foundation is a global community advancing the interest of awesome in the universe, $1000 at a time. Each fully autonomous chapter supports awesome projects through micro-grants, usually given out monthly._
 
+## Bed-Stuy Create & Connect Fund
+https://laundromatproject.org/create-connect-fund/ <br>
+_A community micro-grant fund launched by The Laundromat Project providing $1,000 grants to seed and support the creative ideas and civic actions of artists, cultural practitioners, community builders, organizers, and makers in Bedford-Stuyvesant, Brooklyn (New York City)._
+
 ## cache money grants
 https://cachemoney.xyz/grants/ <br>
 _$5K grants, paid in crypto (BTC, ETH, SOL), for "hackers and/or artists who want to tackle interesting new ideas in the crypto space."_
