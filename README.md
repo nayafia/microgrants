@@ -16,6 +16,10 @@ _The Awesome Foundation is a global community advancing the interest of awesome 
 https://awesomejournalism.org/ <br>
 _Awesome Journalism awards $1,000 grants every month for journalism story projects._
 
+## Bed-Stuy Create & Connect Fund
+https://laundromatproject.org/create-connect-fund/ <br>
+_A community micro-grant fund launched by The Laundromat Project providing $1,000 grants to seed and support the creative ideas and civic actions of artists, cultural practitioners, community builders, organizers, and makers in Bedford-Stuyvesant, Brooklyn (New York City)._
+
 ## cache money grants
 https://cachemoney.xyz/grants/ <br>
 _$5K grants, paid in crypto (BTC, ETH, SOL), for "hackers and/or artists who want to tackle interesting new ideas in the crypto space."_
