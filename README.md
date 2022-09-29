@@ -122,7 +122,7 @@ _Get $4,000 for your open source quantum computing project._
 
 ## VitaDAO Fellowship
 [vitadao.com/fellowship](https://www.vitadao.com/fellowship) <br>
-_Apply for $0,1-3k fast micro-grant to pursue your effort in longevity. You can meet other fellows on a bi-monthly call to support each other, as well as get awareness through the broader community, and apply for up to $1m in translational research funding._
+_Apply for $100-$3,000 fast microgrants to pursue your effort in longevity. You can meet other fellows on a bi-monthly call to support each other, as well as get awareness through the broader community, and apply for up to $1m in translational research funding._
 
 
 # Inactive microgrant programs
