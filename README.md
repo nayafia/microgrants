@@ -124,6 +124,9 @@ _Get $4,000 for your open source quantum computing project._
 [https://vitadao.com/fellowship](https://www.vitadao.com/fellowship) <br>
 _Apply for $100-$3,000 fast microgrants to pursue your effort in longevity. You can meet other fellows on a bi-monthly call to support each other, as well as get awareness through the broader community, and apply for up to $1m in translational research funding._
 
+## Xor Grant
+https://xorgrant.org <br>
+_Xor Grant is a no-strings-attached microgrant awarded to high school seniors pursuing a computer science or cybersecurity program in college. Its mission is to support students who are passionate about solving interesting problems and love thinking outside the box._
 
 # Inactive microgrant programs
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
