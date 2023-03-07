@@ -116,6 +116,10 @@ _$250-$1000 grants to support under-funded, small organizations and projects pro
 https://thielfellowship.org/ <br>
 _$100,000 over two years for young people who want to build new things. Thiel Fellows skip or stop out of college to receive a $100,000 grant and support from the Thiel Foundation’s network of founders, investors, and scientists._
 
+## Tyk Side Project Fund
+https://tyk.io/fund <br>
+_Microgrant program for developers with promising tech side projects. Chosen projects will be awarded £500 each, which has to be used to move the project forward. Deadline for applications: 16th April 2023._
+
 ## Unitary Fund
 http://unitary.fund/ <br>
 _Get $4,000 for your open source quantum computing project._
