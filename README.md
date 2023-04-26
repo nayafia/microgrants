@@ -40,10 +40,6 @@ _Emergent Ventures, a new fellowship and grant program from the Mercatus Center,
 https://farnsworthfund.com/ <br>
 _The Farnsworth Fund provides $1,000 grants to create a entrepreneurial culture in northeast Indiana that welcomes new ideas and encourages them to dream bigger._
 
-## Feather Grants
-https://feathergrants.org/ <br>
-_Feather Grants are an experiment in micro-patronage, providing tiny grants ($150 - $500) to individuals creating positive-sum value across a variety of fields._
-
 ## Gumroad Creators Fund
 https://blog.gumroad.com/post/183876075758/introducing-the-first-batch-of-our-creators-fund <br>
 _Over the course of the year, Gumroad will allocate over $50,000 (10% of their profits) to a variety of creators and creative projects. Each "grant" will be between $500 and $5,000._
