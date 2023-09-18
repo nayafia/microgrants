@@ -52,6 +52,10 @@ _Indie Fund aims to support the growth of games as a medium by helping indie dev
 https://www.macktez.com/stipend/ <br>
 _The Macktez Summer Stipend is a $1,000 development grant to encourage creative people to pursue and complete their personal projects._
 
+## Magnificent Grants
+https://www.magnificentgrants.com/ <br>
+_$100,000 fellowships to outliers taking down the walls of universities, credentialism, and elitist hierarchies to have impact on the world._
+
 ## Mitzvoters
 https://www.mitzvoters.org/ <br>
 _Mitzvoters is a group that leverages $50/month collective giving to award $500 grants to "cast a vote about what we want to thrive."_
