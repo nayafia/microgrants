@@ -48,6 +48,10 @@ _Over the course of the year, Gumroad will allocate over $50,000 (10% of their p
 http://indie-fund.com/ <br>
 _Indie Fund aims to support the growth of games as a medium by helping indie developers get financially independent and stay financially independent._
 
+## Inflection Grants
+https://www.inflectiongrants.com/ <br>
+_$2,000 grants for people under 25 to fuel their passion, idea, or themselves._
+
 ## Macktez Summer Stipend
 https://www.macktez.com/stipend/ <br>
 _The Macktez Summer Stipend is a $1,000 development grant to encourage creative people to pursue and complete their personal projects._
