@@ -48,6 +48,10 @@ _Over the course of the year, Gumroad will allocate over $50,000 (10% of their p
 http://indie-fund.com/ <br>
 _Indie Fund aims to support the growth of games as a medium by helping indie developers get financially independent and stay financially independent._
 
+## Inflection Grants
+https://www.inflectiongrants.com/ <br>
+_$2,000 grants for people under 25 to fuel their passion, idea, or themselves._
+
 ## Macktez Summer Stipend
 https://www.macktez.com/stipend/ <br>
 _The Macktez Summer Stipend is a $1,000 development grant to encourage creative people to pursue and complete their personal projects._
@@ -127,10 +131,6 @@ _Apply for $100-$3,000 fast microgrants to pursue your effort in longevity. You 
 ## Xor Grant
 https://xorgrant.org <br>
 _Xor Grant is a no-strings-attached microgrant awarded to high school seniors pursuing a computer science or cybersecurity program in college. Its mission is to support students who are passionate about solving interesting problems and love thinking outside the box._
-
-## Inflection Grant
-https://www.inflectiongrants.com/ <br>
-_2000$ grant for people under 25 to fuel thier passion Open throughout the year and currently active as of 2023 ._
 
 # Inactive microgrant programs
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
