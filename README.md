@@ -83,7 +83,7 @@ _$5,000 for human data projects (ex. genetic, activity or social media data) tha
 ## OffLocalhost
 https://www.offlocalhost.xyz/ <br>
 Instant funding to kick-start your ideas. A fellowship, guiding your every step. <br>
-Grants are usually between $10-$50k for a 3% to 10% equity stake.
+Grants are usually between $10-$50k for a 3% to 10% equity stake. For startups and indie projects. 
 
 ## Pandemonium Capital
 https://www.pandemonium.capital/ <br>
