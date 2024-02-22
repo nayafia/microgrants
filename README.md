@@ -4,6 +4,10 @@ I started a program called [Helium Grants](https://heliumgrant.org), which provi
 
 If you're interested in starting your own microgrant program, I've also created [a few templates](/templates), which you're welcome to use.
 
+## 1517 Medici Project
+https://www.1517fund.com/medici-project <br>
+_$1K grants for high school, college students, and dropouts to launch projects to make humanity better, backed by 1517 Fund._
+
 ## 5x5 Night
 http://5x5night.com/ <br>
 _5x5 Night takes place once a month. The community votes on the ideas that will be presented at the event. The selected creators explain a $5,000 step that will move the idea forward, and will meet people who can help._
