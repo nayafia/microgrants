@@ -124,6 +124,10 @@ _$250-$1000 grants to support under-funded, small organizations and projects pro
 https://thielfellowship.org/ <br>
 _$100,000 over two years for young people who want to build new things. Thiel Fellows skip or stop out of college to receive a $100,000 grant and support from the Thiel Foundation’s network of founders, investors, and scientists._
 
+## Trelis AI Grants
+https://trelis.com/trelis-ai-grants/ <br>
+_$500 fast grants for work on AI models (training, inferencing, tools, etc.)._
+
 ## Unitary Fund
 http://unitary.fund/ <br>
 _Get $4,000 for your open source quantum computing project._
