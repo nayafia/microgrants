@@ -36,6 +36,10 @@ _Climate Grants gives $1000 each month to people working on solving climate chan
 https://echoinggreen.org/fellowship/ <br>
 _A two-year, full-time fellowship for social sector leaders who challenge the status quo. $80,000 for individuals, $90,000 for partnerships, in addition to a flexible benefit stipend._ 
 
+## Éire Ventures
+https://eire-ventures.com/micro-grants/ <br>
+_$500 microgrants for individuals and entrepreneurs focused on international markets, revenue/profitability, and an exploratory approach._
+
 ## Emergent Ventures
 https://www.mercatus.org/emergentventures <br>
 _Emergent Ventures, a new fellowship and grant program from the Mercatus Center, seeks to support entrepreneurs and brilliant minds with highly scalable, “zero to one” ideas for meaningfully improving society._
@@ -123,6 +127,10 @@ _$250-$1000 grants to support under-funded, small organizations and projects pro
 ## Thiel Fellowship
 https://thielfellowship.org/ <br>
 _$100,000 over two years for young people who want to build new things. Thiel Fellows skip or stop out of college to receive a $100,000 grant and support from the Thiel Foundation’s network of founders, investors, and scientists._
+
+## Trelis AI Grants
+https://trelis.com/trelis-ai-grants/ <br>
+_$500 grants for individuals pursuing advances in the field of AI models, such as training, inferencing, and fine-tuning.
 
 ## Unitary Fund
 http://unitary.fund/ <br>
