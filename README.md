@@ -130,7 +130,7 @@ _$100,000 over two years for young people who want to build new things. Thiel Fe
 
 ## Trelis AI Grants
 https://trelis.com/trelis-ai-grants/ <br>
-_$500 grants for individuals pursuing advances in the field of AI models, such as training, inferencing, and fine-tuning.
+_$500 grants for individuals pursuing advances in the field of AI models, such as training, inferencing, and fine-tuning._
 
 ## Unitary Fund
 http://unitary.fund/ <br>
