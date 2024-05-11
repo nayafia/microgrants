@@ -38,7 +38,7 @@ _A two-year, full-time fellowship for social sector leaders who challenge the st
 
 ## Éire Ventures
 https://eire-ventures.com/micro-grants/ <br>
-_$500 fast grants for individuals/entrepreneurs focused on international markets, revenue/profitability and a portfolio approach to entrepreneurship._
+_$500 microgrants for individuals and entrepreneurs focused on international markets, revenue/profitability, and an exploratory approach._
 
 ## Emergent Ventures
 https://www.mercatus.org/emergentventures <br>
@@ -130,7 +130,7 @@ _$100,000 over two years for young people who want to build new things. Thiel Fe
 
 ## Trelis AI Grants
 https://trelis.com/trelis-ai-grants/ <br>
-_$500 fast grants for work on AI models (training, inferencing, tools, etc.)._
+_$500 grants for individuals pursuing advances in the field of AI models, such as training, inferencing, and fine-tuning.
 
 ## Unitary Fund
 http://unitary.fund/ <br>
