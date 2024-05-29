@@ -144,6 +144,10 @@ _Apply for $100-$3,000 fast microgrants to pursue your effort in longevity. You 
 https://xorgrant.org <br>
 _Xor Grant is a no-strings-attached microgrant awarded to high school seniors pursuing a computer science or cybersecurity program in college. Its mission is to support students who are passionate about solving interesting problems and love thinking outside the box._
 
+## Bellare Grants
+https://bellaregrants.netlify.app <br>
+Bellare Grants is a microgrant started by family members, with the aim of contributing to education, health, research and open source software and hardware projects.
+
 # Inactive microgrant programs
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
 
