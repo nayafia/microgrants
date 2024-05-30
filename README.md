@@ -146,7 +146,7 @@ _Xor Grant is a no-strings-attached microgrant awarded to high school seniors pu
 
 ## Bellare Grants
 https://bellaregrants.netlify.app <br>
-Bellare Grants is a microgrant started by family members, with the aim of contributing to education, health, research and open source software and hardware projects.
+Bellare Grants is a program supporting local/Indian initiatives in education, healthcare, research, and open source projects(hardware and software) through financial contributions.
 
 # Inactive microgrant programs
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
