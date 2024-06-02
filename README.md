@@ -20,6 +20,10 @@ _The Awesome Foundation is a global community advancing the interest of awesome 
 https://laundromatproject.org/create-connect-fund/ <br>
 _A community micro-grant fund launched by The Laundromat Project providing $1,000 grants to seed and support the creative ideas and civic actions of artists, cultural practitioners, community builders, organizers, and makers in Bedford-Stuyvesant, Brooklyn (New York City)._
 
+## Bellare Grants
+https://bellaregrants.netlify.app/ <br>
+_Bellare Grants awards up to 1 lakh INR per year to Indian initiatives in education, healthcare, research, and open source projects (hardware and software) through financial contributions._
+
 ## cache money grants
 https://cachemoney.xyz/grants/ <br>
 _$5K grants, paid in crypto (BTC, ETH, SOL), for "hackers and/or artists who want to tackle interesting new ideas in the crypto space."_
