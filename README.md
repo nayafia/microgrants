@@ -28,6 +28,14 @@ _Bellare Grants awards up to 1 lakh INR per year to Indian initiatives in educat
 https://cachemoney.xyz/grants/ <br>
 _$5K grants, paid in crypto (BTC, ETH, SOL), for "hackers and/or artists who want to tackle interesting new ideas in the crypto space."_
 
+## Feather Grants
+https://www.gradcapital.in/feathergrants/ <br>
+_An INR 15,000 grant ($180) to students to bring their boldest ideas to life—no strings attached. We want to fuel your passion and support your most innovative and exciting projects._
+
+## Atomic Fellowship
+https://www.gradcapital.in/atomicfellow/ <br>
+_$5,000 no-strings-attached grant for students who want to work on science & engineering projects. Projects that can change the world._
+
 ## Clarity Health Fund
 https://www.clarityhealthfund.org/ <br>
 _$1,000 USD microgrants for progress in psychedelics and drug policy. Clarity Health Fund’s primary mission is to bring psychedelics into the wellness system. Larger grants are also available._
