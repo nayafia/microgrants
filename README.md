@@ -12,6 +12,10 @@ _$1K grants for high school, college students, and dropouts to launch projects t
 http://5x5night.com/ <br>
 _5x5 Night takes place once a month. The community votes on the ideas that will be presented at the event. The selected creators explain a $5,000 step that will move the idea forward, and will meet people who can help._
 
+## Atomic Fellowship
+https://www.gradcapital.in/atomicfellow/ <br>
+_$5,000 no-strings-attached grant for students who want to work on science & engineering projects, with an option of an additional $40k investment by gradCapital._
+
 ## Awesome Foundation
 http://www.awesomefoundation.org/ <br>
 _The Awesome Foundation is a global community advancing the interest of awesome in the universe, $1000 at a time. Each fully autonomous chapter supports awesome projects through micro-grants, usually given out monthly._
@@ -51,6 +55,10 @@ _Emergent Ventures, a new fellowship and grant program from the Mercatus Center,
 ## Farnsworth Fund
 https://farnsworthfund.com/ <br>
 _The Farnsworth Fund provides $1,000 grants to create a entrepreneurial culture in northeast Indiana that welcomes new ideas and encourages them to dream bigger._
+
+## Feather Grants
+https://www.gradcapital.in/feathergrants/ <br>
+_INR 15,000 grant ($180) to students to bring their boldest ideas to life—no strings attached. The project can be anything that sets your heart racing, whether it's creating a short film, conducting a science experiment, competing in a national dance competition, or archiving local history._
 
 ## Gumroad Creators Fund
 https://blog.gumroad.com/post/183876075758/introducing-the-first-batch-of-our-creators-fund <br>
