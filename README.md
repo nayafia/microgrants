@@ -172,10 +172,14 @@ To my knowledge, these grant programs are no longer active, but you might find t
 * [Awesome Journalism](https://awesomejournalism.org/) - Awesome Journalism awarded $1,000 grants every month for journalism story projects.
 * [Uncharted Journalism Fund](https://unchartedjournalism.org/) (see [retrospective](https://unchartedjournalism.org/uncharted-journalism-fund-experiment-complete-lessons-learned-5f53473a92c3))
 
-# Got another grant program to suggest?
-Open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues) and add it here! The list is sorted alphabetically. I'll add more programs as I hear about them.
+# Contribute to this list!
+Two types of contributions that are especially appreciated:
+* Suggest a new microgrant program to add
+* Flag any programs on here that are no longer active
 
-If you don't use GitHub, tweet your suggestion [@nayafia](https://twitter.com/intent/tweet?text=@nayafia%20) or [drop me a line](http://nadiaeghbal.com/) and I'll add it to this list.
+To make a contribution, open a [pull request](https://github.com/nayafia/microgrants/pulls) or [issue](https://github.com/nayafia/microgrants/issues). Note that the list is sorted alphabetically.
+
+If you don't use GitHub, DM me on Twitter at [@nayafia](https://twitter.com/nayafia) or [drop me a line](http://nadia.xyz/) and I'll add it to this list.
 
 # License
 This list, humble as it may be, is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). If you do use it, I'd love to hear about it! (Find me here: [@nayafia](https://twitter.com/nayafia)) But you are in no way required to do so.
