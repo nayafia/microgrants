@@ -12,6 +12,10 @@ _$1K grants for high school, college students, and dropouts to launch projects t
 http://5x5night.com/ <br>
 _5x5 Night takes place once a month. The community votes on the ideas that will be presented at the event. The selected creators explain a $5,000 step that will move the idea forward, and will meet people who can help._
 
+## ACX Grants
+https://www.astralcodexten.com/p/acx-grants-results-2024 <br>
+_Grants program, organized by Scott Alexander, for "good research and good projects with a minimum of paperwork." Runs irregularly._
+
 ## Atomic Fellowship
 https://www.gradcapital.in/atomicfellow/ <br>
 _$5,000 no-strings-attached grant for students who want to work on science & engineering projects, with an option of an additional $40k investment by gradCapital._
@@ -160,7 +164,6 @@ _Xor Grant is a no-strings-attached microgrant awarded to high school seniors pu
 To my knowledge, these grant programs are no longer active, but you might find them useful to read about as case studies.
 
 * [Abe's $100 Micro Grant](https://www.mechaelephant.com/microgrant)
-* [ACX Grants](https://astralcodexten.substack.com/p/apply-for-an-acx-grant) - Scott Alexander [awarded $1.5M+ in grants](https://astralcodexten.substack.com/p/acx-grants-results) for "good research and good projects with a minimum of paperwork."
 * [AI Grant](https://aigrant.org/)
 * [Awesome Journalism](https://awesomejournalism.org/) - Awesome Journalism awarded $1,000 grants every month for journalism story projects.
 * [Uncharted Journalism Fund](https://unchartedjournalism.org/) (see [retrospective](https://unchartedjournalism.org/uncharted-journalism-fund-experiment-complete-lessons-learned-5f53473a92c3))
