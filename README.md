@@ -36,6 +36,10 @@ _Bellare Grants awards up to 1 lakh INR per year to Indian initiatives in educat
 https://cachemoney.xyz/grants/ <br>
 _$5K grants, paid in crypto (BTC, ETH, SOL), for "hackers and/or artists who want to tackle interesting new ideas in the crypto space."_
 
+## Cactus Capital
+https://cactuscapital.org/
+_$50-100 microgrants for student builders at any stage. Run by Nayel and Arhan, two high schoolers from northern Virginia._
+
 ## Clarity Health Fund
 https://www.clarityhealthfund.org/ <br>
 _$1,000 USD microgrants for progress in psychedelics and drug policy. Clarity Health Fund’s primary mission is to bring psychedelics into the wellness system. Larger grants are also available._
