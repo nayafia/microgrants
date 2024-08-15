@@ -37,7 +37,7 @@ https://cachemoney.xyz/grants/ <br>
 _$5K grants, paid in crypto (BTC, ETH, SOL), for "hackers and/or artists who want to tackle interesting new ideas in the crypto space."_
 
 ## Cactus Capital
-https://cactuscapital.org/
+https://cactuscapital.org/ <br>
 _$50-100 microgrants for student builders at any stage. Run by Nayel and Arhan, two high schoolers from northern Virginia._
 
 ## Clarity Health Fund
