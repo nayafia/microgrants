@@ -112,6 +112,10 @@ _$5,000 for human data projects (ex. genetic, activity or social media data) tha
 https://www.pandemonium.capital/ <br>
 _Up to $150 in microgrants for people who want to do "something chaotic."_
 
+## Patch Grants 
+https://www.joinpatch.org/grant/ <br>
+_Grants of up to €1000 for young people based in Ireland who are working on early-stage projects and products. Grantees are paired with a mentor who has experience in their focus area and can offer support in setting and achieving ambitious goals._
+
 ## Pollination Project
 https://thepollinationproject.org/ <br>
 _The Pollination Project awards seed grants daily to social change leaders seeking to benefit the world (both individuals, and community groups that do not have paid staff). Up to $1,000 per initial grant. Successful grantees become eligible for additional grants up to $5,000._
