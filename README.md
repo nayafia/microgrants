@@ -88,6 +88,10 @@ _The Macktez Summer Stipend is a $1,000 development grant to encourage creative 
 https://www.magnificentgrants.com/ <br>
 _$100,000 fellowships to outliers taking down the walls of universities, credentialism, and elitist hierarchies to have impact on the world._
 
+## Merge Grant
+https://merge.club/program/mergegrant <br>
+_Merge Grant is a micro-grant initiative (between $50 and $1,000) designed to give ambitious builders resources as they pursue compelling projects._
+
 ## Mitzvoters
 https://www.mitzvoters.org/ <br>
 _Mitzvoters is a group that leverages $50/month collective giving to award $500 grants to "cast a vote about what we want to thrive."_
