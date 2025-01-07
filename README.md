@@ -86,7 +86,7 @@ _The Macktez Summer Stipend is a $1,000 development grant to encourage creative 
 
 ## Magnificent Grants
 https://www.magnificentgrants.com/ <br>
-_$100,000 fellowships to outliers taking down the walls of universities, credentialism, and elitist hierarchies to have impact on the world._
+_$10,000 fellowships to outliers taking down the walls of universities, credentialism, and elitist hierarchies to have impact on the world._
 
 ## Merge Grant
 https://merge.club/program/mergegrant <br>
