@@ -44,10 +44,6 @@ _$50-100 microgrants for student builders at any stage. Run by Nayel and Arhan, 
 https://www.clarityhealthfund.org/ <br>
 _$1,000 USD microgrants for progress in psychedelics and drug policy. Clarity Health Fund’s primary mission is to bring psychedelics into the wellness system. Larger grants are also available._
 
-## Climate Grants
-https://www.climategrants.earth/ <br />
-_Climate Grants gives $1000 each month to people working on solving climate change, no strings attached._
-
 ## Echoing Green Fellowship
 https://echoinggreen.org/fellowship/ <br>
 _A two-year, full-time fellowship for social sector leaders who challenge the status quo. $80,000 for individuals, $90,000 for partnerships, in addition to a flexible benefit stipend._ 
