@@ -108,6 +108,11 @@ _$5K to $50K for open source projects by independent researchers and developers.
 https://www.openhumans.org/grants/ <br>
 _$5,000 for human data projects (ex. genetic, activity or social media data) that help grow the Open Humans ecosystem._
 
+## OffLocalhost
+https://www.offlocalhost.xyz/ <br>
+Instant funding to kick-start your ideas. A fellowship, guiding your every step. <br>
+Grants are usually between $10-$50k for a 3% to 10% equity stake. For startups and indie projects. 
+
 ## Pandemonium Capital
 https://www.pandemonium.capital/ <br>
 _Up to $150 in microgrants for people who want to do "something chaotic."_
