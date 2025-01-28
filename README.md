@@ -108,10 +108,6 @@ _$5K to $50K for open source projects by independent researchers and developers.
 https://www.openhumans.org/grants/ <br>
 _$5,000 for human data projects (ex. genetic, activity or social media data) that help grow the Open Humans ecosystem._
 
-## Pandemonium Capital
-https://www.pandemonium.capital/ <br>
-_Up to $150 in microgrants for people who want to do "something chaotic."_
-
 ## Patch Grants 
 https://www.joinpatch.org/grant/ <br>
 _Grants of up to €1000 for young people based in Ireland who are working on early-stage projects and products. Grantees are paired with a mentor who has experience in their focus area and can offer support in setting and achieving ambitious goals._
