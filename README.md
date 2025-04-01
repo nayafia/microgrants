@@ -76,6 +76,10 @@ _Indie Fund aims to support the growth of games as a medium by helping indie dev
 https://www.inflectiongrants.com/ <br>
 _$2,000 grants for people under 25 to fuel their passion, idea, or themselves._
 
+## Lift Off Grant
+https://www.liftoffgrant.com/ <br>
+_Empowering young innovators (18 and under) with $50-$100 microgrants to turn their ideas into reality. No strings attached - just your creativity and passion._
+
 ## Macktez Summer Stipend
 https://www.macktez.com/stipend/ <br>
 _The Macktez Summer Stipend is a $1,000 development grant to encourage creative people to pursue and complete their personal projects._
