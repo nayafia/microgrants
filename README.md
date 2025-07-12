@@ -117,7 +117,7 @@ https://www.openhumans.org/grants/ <br>
 _$5,000 for human data projects (ex. genetic, activity or social media data) that help grow the Open Humans ecosystem._
 
 ## Patch Grants 
-https://www.joinpatch.org/grant/ <br>
+https://www.joinpatch.org/grants/ <br>
 _Grants of up to €1000 for young people based in Ireland who are working on early-stage projects and products. Grantees are paired with a mentor who has experience in their focus area and can offer support in setting and achieving ambitious goals._
 
 ## Pollination Project
