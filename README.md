@@ -60,9 +60,9 @@ _$500 microgrants for individuals and entrepreneurs focused on international mar
 https://www.mercatus.org/emergentventures <br>
 _Emergent Ventures, a new fellowship and grant program from the Mercatus Center, seeks to support entrepreneurs and brilliant minds with highly scalable, “zero to one” ideas for meaningfully improving society._
 
-## Farnsworth Fund
-https://farnsworthfund.com/ <br>
-_The Farnsworth Fund provides $1,000 grants to create a entrepreneurial culture in northeast Indiana that welcomes new ideas and encourages them to dream bigger._
+## Fortitude Fund
+https://fortitudefund.com/about/ <br>
+_The Fortitude Fund provides $1,000 grants to create a entrepreneurial culture in northeast Indiana that welcomes new ideas and encourages them to dream bigger._
 
 ## Feather Grants
 https://www.gradcapital.in/feathergrants/ <br>
