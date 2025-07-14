@@ -128,10 +128,6 @@ _The Pollination Project awards seed grants daily to social change leaders seeki
 https://www.withprimer.com/blog/introducing-primer-grants <br>
 _Primer Grants are awards of up to $500 per student to fund ambitious projects from kids around the world._
 
-## Project Cover
-http://projectcover.org/ <br>
-_Cover is a non-profit that gifts small ($500) grants to driven people. Their mission is to extend access to knowledge, networks, and opportunities for those who are working hard to achieve great things. Restricted to United States citizens and resident aliens._
-
 ## Prototype Fund
 https://prototypefund.de <br>
 _The Prototype Fund is a collaboration between the Open Knowledge Foundation Germany and the German Federal Ministry of Education and Research. You can get up to 47.500€ for your open source project. This grant is only available for people living in Germany, but available with any passport._
