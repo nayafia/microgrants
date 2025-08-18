@@ -62,7 +62,7 @@ _Emergent Ventures, a new fellowship and grant program from the Mercatus Center,
 
 ## Forge Grants
 https://www.forgegrant.com/ <br>
-_The Forge Grant Initiative provides no-strings-attached ideation capital up to $250 for young innovators (13-25) to build viral projects. Each project should have a clear plan on how to hit 1M+ views within 6 months._
+_The Forge Grant Initiative provides no-strings-attached grants up to $250 for young creator-engineers (13-25) who can both dream up viral concepts and build the technical infrastructure to make them reality._
 
 ## Fortitude Fund
 https://fortitudefund.com/ <br>
