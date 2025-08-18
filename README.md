@@ -60,6 +60,10 @@ _$500 microgrants for individuals and entrepreneurs focused on international mar
 https://www.mercatus.org/emergentventures <br>
 _Emergent Ventures, a new fellowship and grant program from the Mercatus Center, seeks to support entrepreneurs and brilliant minds with highly scalable, “zero to one” ideas for meaningfully improving society._
 
+## Forge Grants
+https://www.forgegrant.com/ <br>
+_The Forge Grant Initiative provides no-strings-attached grants up to $250 for young creator-engineers (13-25) who can both dream up viral concepts and build the technical infrastructure to make them reality._
+
 ## Fortitude Fund
 https://fortitudefund.com/ <br>
 _The Fortitude Fund provides $1,000 grants to create a entrepreneurial culture in northeast Indiana that welcomes new ideas and encourages them to dream bigger. Upon receiving an initial grant and showing progress in their business, grantees are also eligible to receive a Next Level Grant of $2,500._
