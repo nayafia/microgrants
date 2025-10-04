@@ -12,6 +12,10 @@ _$1K grants for high school, college students, and dropouts to launch projects t
 http://5x5night.com/ <br>
 _5x5 Night takes place once a month. The community votes on the ideas that will be presented at the event. The selected creators explain a $5,000 step that will move the idea forward, and will meet people who can help._
 
+## Arraig Grants (formerly Éire Ventures)
+https://arraig.com/micro-grants/ <br>
+_$500 microgrants for individuals and entrepreneurs focused on international markets, revenue/profitability, and an exploratory approach._
+
 ## ACX Grants
 https://www.astralcodexten.com/p/acx-grants-results-2024 <br>
 _Grants program, organized by Scott Alexander, for "good research and good projects with a minimum of paperwork." Runs irregularly._
@@ -51,10 +55,6 @@ _An equity-free grant of €150,000 given to exceptional engineers, scientists, 
 ## Echoing Green Fellowship
 https://echoinggreen.org/fellowship/ <br>
 _A two-year, full-time fellowship for social sector leaders who challenge the status quo. $80,000 for individuals, $90,000 for partnerships, in addition to a flexible benefit stipend._ 
-
-## Éire Ventures
-https://eire-ventures.com/micro-grants/ <br>
-_$500 microgrants for individuals and entrepreneurs focused on international markets, revenue/profitability, and an exploratory approach._
 
 ## Emergent Ventures
 https://www.mercatus.org/emergentventures <br>
