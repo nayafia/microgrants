@@ -76,6 +76,10 @@ _INR 15,000 grant ($180) to students to bring their boldest ideas to life—no s
 https://blog.gumroad.com/post/183876075758/introducing-the-first-batch-of-our-creators-fund <br>
 _Over the course of the year, Gumroad will allocate over $50,000 (10% of their profits) to a variety of creators and creative projects. Each "grant" will be between $500 and $5,000._
 
+## Howl Grants
+https://godsordevils.org/howl.html <br>
+_Howl Grants are no-strings attached $1,000 - $2,500 grants open to changemakers worldwide who want to create impact in their communities through development of infrastructure, technology, education, health, and resource management._
+
 ## Indie Fund
 http://indie-fund.com/ <br>
 _Indie Fund aims to support the growth of games as a medium by helping indie developers get financially independent and stay financially independent._
