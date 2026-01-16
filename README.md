@@ -88,10 +88,6 @@ _$2,000 grants for people under 25 to fuel their passion, idea, or themselves._
 https://www.liftoffgrant.com/ <br>
 _Empowering young innovators (18 and under) with $50-$100 microgrants to turn their ideas into reality. No strings attached - just your creativity and passion._
 
-## Macktez Summer Stipend
-https://www.macktez.com/stipend/ <br>
-_The Macktez Summer Stipend is a $1,000 development grant to encourage creative people to pursue and complete their personal projects._
-
 ## Magnificent Grants
 https://www.magnificentgrants.com/ <br>
 _$10,000 fellowships to outliers taking down the walls of universities, credentialism, and elitist hierarchies to have impact on the world._
@@ -127,10 +123,6 @@ _Grants of up to €1000 for young people based in Ireland who are working on ea
 ## Pollination Project
 https://thepollinationproject.org/ <br>
 _The Pollination Project awards seed grants daily to social change leaders seeking to benefit the world (both individuals, and community groups that do not have paid staff). Up to $1,000 per initial grant. Successful grantees become eligible for additional grants up to $5,000._
-
-## Primer Grants
-https://www.withprimer.com/blog/introducing-primer-grants <br>
-_Primer Grants are awards of up to $500 per student to fund ambitious projects from kids around the world._
 
 ## Prototype Fund
 https://prototypefund.de <br>
