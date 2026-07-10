@@ -140,6 +140,10 @@ _The SciFounder Fellowship is "designed to encourage early-career scientists wit
 https://www.thesisters.org/grants <br>
 _$250-$1000 grants to support under-funded, small organizations and projects providing direct services to under-served communities. The projects they support tend to be progressive grassroots projects that promote wellness, joy, tolerance, and diversity within our communities, and that support the LGBTQ+ community. Bay Area projects preferred._
 
+## Solo Grants
+https://sologrants.com/ <br>
+_$100-$1,000 grants for solo builders to cover the parts, compute, and materials between a passion project and a first working version. No equity, no repayment, no reporting — open to any age, background, or location, with preference for those facing financial barriers. About ten days from application to funded._
+
 ## Thiel Fellowship
 https://thielfellowship.org/ <br>
 _$100,000 over two years for young people who want to build new things. Thiel Fellows skip or stop out of college to receive a $100,000 grant and support from the Thiel Foundation’s network of founders, investors, and scientists._
